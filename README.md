@@ -1,18 +1,11 @@
-## Getting Started
+ ## Chess project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This'll be the first project that I'll create on my own and isn't part of my school work.
 
-## Folder Structure
+I want to learn how to code games, and I've decided to start off with trying to create already existing games using Java.
 
-The workspace contains two folders by default, where:
+My first project is to code a simple chess game (this won't be anything fancy, no fancy graphics etc. just pure code).
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+I'll try to create as much as I possibly can from my own head, but I'll be also taking references from this guide: https://www.geeksforgeeks.org/design-a-chess-game/
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## I don't claim anything as my own, this is just pure practice for me for the future :)
